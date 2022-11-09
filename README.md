@@ -18,7 +18,7 @@ them it should start converting, it will close when it finishes
 
 # TODO
 1. add a gui
-   - this should be done first, cli are ass
+   - this should be done first, cli's are ass
 2. add the option to choose other file formats
 3. convert all files in subfolders (this one is hard)
 
