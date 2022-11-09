@@ -15,3 +15,11 @@ type the file size
 4chan's limit for \wsg\ and \gif\ is 4 mb, 3 mb for the rest of the boards that allow webms, because encoders arent perfect i would recomend you to put something like 3.9 or 3.8 if you want a 4 mb file
 
 them it should start converting, it will close when it finishes
+
+# TODO
+1. add a gui
+   - this should be done first, cli are ass
+2. add the option to choose other file formats
+3. convert all files in subfolders (this one is hard)
+
+honestly i dont know if i will do half of those considering the current script suits my needs
