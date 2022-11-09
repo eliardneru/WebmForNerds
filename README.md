@@ -3,6 +3,7 @@ a powershell script to mass convert mp4 (and other file types in the future) int
 
 # how to install?
 go to the relases page and download the ps1 file
+
 make sure to have ffmpeg installed and put it in your path
 
 # how to use?
