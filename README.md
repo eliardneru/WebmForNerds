@@ -11,7 +11,7 @@ run it with powershell
 
 type the location of the folder with the mp4 files (eg. C:\videos\weirdshit\cartelbeheadings)
 
-type the file size
+type the file size,
 4chan's limit for \wsg\ and \gif\ is 4 mb, 3 mb for the rest of the boards that allow webms, because encoders arent perfect i would recomend you to put something like 3.9 or 3.8 if you want a 4 mb file
 
 them it should start converting, it will close when it finishes
