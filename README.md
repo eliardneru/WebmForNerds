@@ -1,4 +1,4 @@
-# webm-bulk-converter
+# WebmForNerds
 a powershell script to mass convert mp4 (and other file types in the future) into webms within the 4chan size limit
 
 # how to install?
