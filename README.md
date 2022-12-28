@@ -17,8 +17,7 @@ type the file size,
 them it should start converting, it will close when it finishes
 
 # TODO
-1. add a gui
-   - this should be done first, cli's are ass
+--1. add a gui
 2. add the option to choose other file formats
 3. convert all files in subfolders (this one is hard)
 4. auto-split
@@ -29,4 +28,6 @@ them it should start converting, it will close when it finishes
    - people seem to use those to make videos look good
 7. other splitting tools
    - GUI to split videos
+9. refactor code
+   - turns out even i cant read my code
 any ideas, make a issue with the enchancment tag
