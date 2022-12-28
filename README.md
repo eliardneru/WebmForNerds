@@ -17,7 +17,7 @@ type the file size,
 them it should start converting, it will close when it finishes
 
 # TODO
---1. add a gui
+~~1. add a gui~~
 2. add the option to choose other file formats
 3. convert all files in subfolders (this one is hard)
 4. auto-split
